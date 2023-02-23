@@ -23,7 +23,7 @@ namespace HW50
             }
             else
             {
-                Console.WriteLine("Sorry program could not hadle inserted value ...Bye!");
+                Console.WriteLine("Такого в массиве нет");
             }
         }
     }
